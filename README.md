@@ -9,6 +9,6 @@ Students are expected to:
 Student Info
 =========================
 
-* Student Name: *Josselin Peniguel*
-* Student ID: **
+* Student Name: Josselin Peniguel
+* Student ID:
 
